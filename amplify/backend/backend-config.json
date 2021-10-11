@@ -1,6 +1,6 @@
 {
   "auth": {
-    "amplifyapp046ad03f": {
+    "amplifyappb0178278": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
@@ -35,7 +35,7 @@
           "defaultAuthentication": {
             "authenticationType": "AMAZON_COGNITO_USER_POOLS",
             "userPoolConfig": {
-              "userPoolId": "authamplifyapp046ad03f"
+              "userPoolId": "authamplifyappb0178278"
             }
           },
           "additionalAuthenticationProviders": []
